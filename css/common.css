@@ -1,0 +1,219 @@
+.tobar {
+    font-size: 12px;
+    height: 30px;
+    line-height: 30px;
+    background: #f1f1f1;
+    border-bottom: 1px solid #eee;
+}
+
+.tobar-l span {
+    margin-right: 14px;
+}
+
+.tobar-l a {
+    margin-right: 13px;
+}
+
+.tobar-r li {
+    float: left;
+}
+
+.tobar-r li.line {
+    width: 1px;
+    height: 12px;
+    background-color: #666;
+    margin: 9px 14px 0 16px;
+}
+
+.tobar-r .iconfont {
+    margin-left: 10px;
+}
+
+.header {
+    height: 151px;
+    border-bottom: 2px solid #b1191a;
+}
+
+.header .logo a {
+    position: absolute;
+    left: 0;
+    top: 29px;
+    text-indent: -99999em;
+    width: 175px;
+    height: 54px;
+    background-image: url("../images/logo.png");
+}
+
+.header .search {
+    left: 347px;
+    top: 25px;
+    height: 32px;
+    width: 536px;
+    border: 2px solid #b1191a;
+}
+
+.search input[type="text"] {
+    padding-left: 10px;
+    width: 444px;
+    height: 32px;
+    float: left;
+    font-size: 14px;
+}
+
+.search input[type="submit"] {
+    width: 82px;
+    height: 32px;
+    background-color: #b1191a;
+    float: left;
+    color: white;
+    font-size: 16px;
+}
+
+.cart {
+    right: 64px;
+    top: 25px;
+    border: 1px solid #dfdfdf;
+    width: 138px;
+    height: 34px;
+    background-color: #f7f7f7;
+    line-height: 34px;
+    font-size: 12px;
+}
+
+.cart span {
+    width: 15px;
+    height: 15px;
+    border-radius: 7.5px 7.5px 7.5px 0;
+    background-color: #e60012;
+    position: absolute;
+    top: -5px;
+    right: 22px;
+    line-height: 15px;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+}
+
+.hotpro {
+    top: 70px;
+    left: 360px;
+    font-size: 12px;
+    font-family: "宋体";
+}
+
+.hotpro li {
+    float: left;
+    padding: 0 12px;
+}
+
+.headnav {
+    left: 250px;
+    top: 90px;
+    font-size: 16px;
+}
+
+.headnav li {
+    float: left;
+    padding: 30px;
+}
+
+
+
+.footer {
+    padding-top: 28px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+
+.footer .footer_nav {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ededed;
+}
+
+.footer_nav li {
+    float: left;
+    height: 50px;
+    width: 20%;
+}
+
+.footer_nav h4 {
+    float: left;
+    width: 50px;
+    height: 50px;
+    background: url("../images/icons.png") -253px -3px;
+    font-size: 0;
+    margin-left: 38px;
+    margin-right: 7px;
+}
+
+.footer_nav .solgan h5 {
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.footer_nav .solgan p {
+    font-size: 12px;
+}
+
+.footer .server {
+    padding: 20px 0 25px 50px;
+    border-bottom: 1px solid #ededed;
+}
+
+.server dl {
+    width: 200px;
+    float: left;
+}
+
+.server dl:nth-child(5) {
+    width: 183px;
+}
+
+.server dl:nth-child(6) {
+    width: 90px;
+    text-align: center;
+}
+
+.server dt {
+    height: 30px;
+    font-weight: 700;
+}
+
+.server dd {
+    font-size: 12px;
+    height: 24px;
+}
+
+.server dd img {
+    margin-bottom: 10px;
+}
+
+.about {
+    padding-top: 18px;
+    font-size: 12px;
+}
+
+.about ul {
+    margin-left: 115px;
+}
+
+.about ul li {
+    float: left;
+    height: 30px;
+}
+
+.about li span {
+    margin-left: 14px;
+    margin-right: 16px;
+}
+
+.about li a {
+    font-size: 12px;
+}
+
+.about p {
+    text-align: center;
+    height: 20px;
+}

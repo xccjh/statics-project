@@ -1,0 +1,293 @@
+.header {
+    border: none;
+    height: 105px;
+}
+
+.header h3 {
+    left: 190px;
+    top: 45px;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.header .search {
+    top: 25px;
+    right: -425px;
+    width: 425px;
+}
+
+.header .search input[type="text"] {
+    width: 344px;
+}
+
+.header .search input[type="submit"] {
+    width: 71px;
+}
+
+.bt {
+    margin-bottom: 25px;
+}
+
+.tobaro {
+    height: 35px;
+    background-color: #f5f5f5;
+    border: 1px solid #eee;
+    font-size: 12px;
+    line-height: 35px;
+    margin-bottom: 18px;
+}
+
+.tobaro input[type="checkbox"] {
+    margin: 10px 12px 0px 5px;
+}
+
+.cz a {
+    display: block;
+    width: 56px;
+    height: 18px;
+    color: white;
+    text-align: center;
+    line-height: 18px;
+    font-size: 12px;
+    float: left;
+    background-color: #c81623;
+}
+
+.gwc {
+    border: 1px solid #eee;
+    padding-top: 16px;
+    box-sizing: border-box;
+    margin-bottom: 23px;
+}
+
+.copy {
+    height: 120px;
+    border-bottom: 1px solid #eee;
+}
+
+.copyl {
+    padding: 12px 2px 0 12px;
+}
+
+.copyl img {
+    margin-right: 10px;
+}
+
+.copyl input {
+    margin-right: 16px;
+}
+
+.copy-info {
+    font-size: 12px;
+}
+
+.copy-info h3 {
+    height: 22px;
+}
+
+.copy-info p {
+    height: 20px;
+    color: #999;
+    line-height: 17px;
+    height: 17px;
+}
+
+.copy-info p img {
+    margin-top: -1px;
+}
+
+.copyr {
+    padding-top: 12px;
+}
+
+.rj li {
+    float: left;
+    width: 20%;
+    font-size: 12px;
+}
+
+.rj span.jsk {
+    width: 28px;
+    height: 28px;
+    float: left;
+    border: 1px solid #eee;
+    text-align: center;
+    line-height: 28px;
+}
+
+.navcx {
+    font-size: 12px;
+    margin-bottom: 23px;
+}
+
+.navcx .hg {
+    display: inline-block;
+    width: 44px;
+    height: 20px;
+    border: 1px solid red;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 15px;
+}
+
+.ckhg {
+    display: inline-block;
+    width: 70px;
+    height: 22px;
+    background-color: red;
+    color: white;
+    line-height: 22px;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 22px;
+    margin-right: 5px;
+}
+
+.zppw {
+    margin-top: 33px;
+    margin-left: -58px;
+}
+
+.zppz {
+    margin-left: 66px;
+}
+
+.zpp {
+    font-size: 12px;
+    line-height: 24px;
+}
+
+.qx {
+    height: 50px;
+    border: 1px solid #eee;
+    font-size: 12px;
+    line-height: 50px;
+}
+
+.qxl input {
+    margin: 0 12px 0 5px;
+}
+
+.qxl span {
+    margin-right: 12px;
+}
+
+.qxl,
+.qxr {
+    width: 600px;
+}
+
+.qxr p {
+    height: 18px;
+    line-height: 33px;
+}
+
+.jsjq {
+    width: 110px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+}
+
+.btsd li {
+    float: left;
+    width: 25%;
+    height: 40px;
+    font-size: 12px;
+}
+
+.cnxht {
+    border: 1px solid #eee;
+    background-color: #f1f1f1;
+}
+
+.cnxht a {
+    width: 88px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 12px;
+}
+
+.cnxht a.cnxha {
+    background-color: red;
+    color: white;
+}
+
+.cnxhb {
+    height: 352px;
+}
+
+.showxh {
+    left: 38px;
+    top: 20px;
+    border: 1px dotted #cacaca;
+    overflow: hidden;
+}
+
+.showxh li {
+    width: 245px;
+    height: 303px;
+    border-right: 1px dotted #cacaca;
+    float: left;
+    text-align: center;
+}
+
+.showxh li:last-child {
+    border: none;
+}
+
+.showxh li p {
+    height: 20px;
+    font-size: 12px;
+    padding-left: 22px;
+    padding-right: 22px;
+    margin-bottom: 8px;
+}
+
+.showxh li a.jr {
+    display: block;
+    width: 124px;
+    height: 30px;
+    border: 1px solid #eee;
+    text-align: center;
+    line-height: 30px;
+    margin: 0 auto;
+    border-radius: 5px;
+    font-size: 12px;
+    s
+}
+
+.showxh li img {
+    margin-top: -4px;
+}
+
+.cnxhls,
+.cnxhrs {
+    width: 18px;
+    height: 48px;
+    background-color: rgba(0, 0, 0, .3);
+    border: 1px solid #eee;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 48px;
+    text-align: center;
+    color: rgba(255, 255, 255, .6)
+}
+
+.cnxhls:hover,
+.cnxhrs:hover {
+    background-color: rgba(0, 0, 0, 1);
+    color: rgba(255, 255, 255, .5)
+}
+
+.cnxhls {
+    left: 0;
+}
+
+.cnxhrs {
+    right: 0;
+}

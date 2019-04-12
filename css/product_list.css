@@ -1,0 +1,124 @@
+.logo .seckill {
+    position: absolute;
+    top: 40px;
+    left: 179px;
+    width: 70px;
+    height: 33px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    border-left: 2px solid red;
+    line-height: 33px;
+}
+
+.hotnav {
+    position: absolute;
+    top: 120px;
+
+}
+
+.hotnav ul li {
+    float: left;
+    padding-left: 41px;
+    font-weight: 700;
+}
+
+.header .headnav {
+    position: absolute;
+    left: 347px;
+}
+
+.bannernav {
+    margin-bottom: 34px;
+}
+
+.productshow_list {
+    margin-bottom: 316px;
+}
+
+.productshow_list ul li {
+    width: 278px;
+    height: 458px;
+    float: left;
+    margin-right: 13px;
+}
+
+.productshow_list ul li:hover {
+    outline: 1px solid red;
+}
+
+.productshow_list li h3 {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0 13px;
+    margin-bottom: 6px;
+}
+
+.productshow_list li p {
+    font-size: 22px;
+    color: red;
+    padding: 0 13px;
+    font-weight: 700;
+    margin-bottom: 15px;
+
+}
+
+.productshow_list p span {
+    font-size: 12px;
+}
+
+.productshow_list p del {
+    font-size: 14px;
+    padding-left: 13px;
+    font-weight: 400;
+}
+
+.jdt {
+    margin-bottom: 14px;
+}
+
+.jdt span:first-child {
+    margin-left: 12px;
+}
+
+.jdt span {
+    font-size: 14px;
+}
+
+.jdt span i {
+    color: red;
+}
+
+.jdt span:nth-child(2) {
+    display: inline-block;
+    width: 132px;
+    height: 10px;
+    border: 1px solid red;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+.jdt span a {
+    display: block;
+    height: 10px;
+    width: 50%;
+    background-color: red;
+    border-radius: 4px 0 0 4px;
+
+}
+
+.ljq {
+    width: 278px;
+    height: 50px;
+    background-color: red;
+    display: block;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-family: "宋体";
+    font-size: 20px;
+}
+
+.ljq:hover {
+    background-color: rgba(255, 0, 0, .6);
+    color: rgba(255, 255, 255, .2)
+}

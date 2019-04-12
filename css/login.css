@@ -1,0 +1,109 @@
+.header {
+    height: 82px;
+    margin-bottom: 22px;
+}
+
+.header .logo a {
+    top: 14px;
+}
+
+.footer {
+    margin-top: 50px;
+}
+
+.tobarlogin {
+    height: 40px;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    background-color: #ececec;
+    padding: 0 12px;
+}
+
+.tobarlogin h3 {
+    font-size: 16px;
+    line-height: 42px;
+}
+
+.tobarlogin h3 a {
+    font-size: 14px;
+}
+
+.loginbody {
+    height: 418px;
+}
+
+.loginbody ul {
+    height: 310px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 92px;
+
+}
+
+.loginbody ul li {
+    height: 58px;
+    font-size: 14px;
+}
+
+.loginbody ul li input[type="text"] {
+    height: 37px;
+    margin: 0 10px;
+    width: 240px;
+    border: 1px solid #999;
+}
+
+.loginbody ul li i {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.loginbody ul li span {
+    margin-left: 5px;
+}
+
+.loginbody ul li a {
+    display: block;
+    width: 200px;
+    height: 34px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 34px;
+    margin-left: 93px;
+    margin-top: 30px;
+}
+
+.yanzheng {
+    left: 476px;
+    top: 258px;
+    font-size: 12px;
+}
+
+.yanzheng span {
+    display: inline-block;
+    width: 34px;
+    height: 14px;
+    color: white;
+    line-height: 14px;
+    text-align: center;
+}
+
+.yanzheng .ro {
+    background-color: red;
+}
+
+.yanzheng .zh {
+    background-color: yellow;
+}
+
+.yanzheng .qi {
+    background-color: green;
+}

@@ -1,0 +1,184 @@
+.header {
+    border: none;
+    height: 105px;
+}
+
+.header h3 {
+    left: 190px;
+    top: 45px;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.header .search {
+    top: 25px;
+    right: -425px;
+    width: 425px;
+}
+
+.header .search input[type="text"] {
+    width: 344px;
+}
+
+.header .search input[type="submit"] {
+    width: 71px;
+}
+
+.orderb {
+    height: 825px;
+    /* background-color: pink; */
+    margin-bottom: 18px;
+}
+
+.orderb h3 {
+    height: 36px;
+}
+
+.orderzb {
+    border: 1px solid #eee;
+    padding-top: 30px;
+}
+
+.orderzb p.dz {
+    font-size: 12px;
+    padding-left: 70px;
+    margin-bottom: 25px;
+}
+
+.orderzb p.dz span {
+    margin-right: 10px;
+}
+
+.orderzb .more {
+    display: block;
+    height: 33px;
+    font-size: 12px;
+    padding-left: 70px;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 20px;
+}
+
+.pp {
+    padding-bottom: 20px;
+    font-size: 12px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.pp span:first-child {
+    width: 144px;
+    height: 29px;
+    border: 1px solid #eee;
+    display: inline-block;
+    margin-left: 40px;
+    text-align: center;
+    line-height: 29px;
+}
+
+.zf {
+    padding-left: 24px;
+    font-size: 12px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    line-height: 28px;
+    border-bottom: 1px solid #eee;
+}
+
+.zf span {
+    display: block;
+    width: 96px;
+    height: 28px;
+    border: 1px solid 3eee;
+    float: left;
+    border: 1px solid #eee;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.sh {
+    width: 1150px;
+    height: 256px;
+    background-color: #feedef;
+    margin: 0 auto 30px;
+}
+
+.sht {
+    height: 105px;
+    background-color: #f4f4f4;
+    font-size: 12px;
+    border-bottom: 1px solid white;
+}
+
+.sht h5 {
+    height: 50px;
+    line-height: 50px;
+    font-size: 12px;
+    padding-left: 24px;
+}
+
+.sht span.tt {
+    display: inline-block;
+    width: 144px;
+    height: 28px;
+    border: 2px solid red;
+    text-align: center;
+    line-height: 28px;
+    margin: 0 24px;
+}
+
+.jiesuan {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.jiesuan li {
+    text-align: right;
+    height: 18px;
+    font-size: 12px;
+}
+
+.zjs {
+    height: 70px;
+    border: 1px solid #ddd;
+    background-color: #f1f1f1;
+    padding-top: 20px;
+    box-sizing: border-box;
+    text-align: right;
+    font-size: 12px;
+    padding-right: 32px;
+    margin-bottom: 20px;
+}
+
+.zjs p {
+    height: 20px;
+}
+
+.tj {
+    display: block;
+    width: 140px;
+    height: 48px;
+    background-color: #df3033;
+    color: white;
+    text-align: center;
+    line-height: 48px;
+    margin-bottom: 20px;
+}
+
+.tj:hover {
+    background-color: rgb(100, 48, 51);
+    color: red;
+}
+
+.jshao {
+    margin-bottom: 20px;
+}
+
+.jshaol {
+    padding: 0 110px 0 40px;
+}
+
+.jshaom p {
+    line-height: 22px;
+    font-size: 12px;
+    margin-bottom: 22px;
+}

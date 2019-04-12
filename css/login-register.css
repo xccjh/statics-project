@@ -1,0 +1,157 @@
+.header {
+    height: 82px;
+}
+
+.header .logo a {
+    top: 14px;
+}
+
+.zhuce {
+    height: 486px;
+    background-color: #7e00ff;
+}
+
+.zhucel {
+    width: 704px;
+    padding-left: 100px;
+    overflow: hidden;
+    height: 100%;
+}
+
+.zhucel img {
+    margin-top: 40px;
+}
+
+.searchzhuce {
+    width: 255px;
+    height: 32px;
+    border: 1px solid #b02020;
+    margin: 0 auto;
+}
+
+.searchzhuce input[type="text"] {
+    width: 176px;
+    height: 32px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.searchzhuce input[type="button"] {
+    width: 79px;
+    height: 32px;
+    background-color: #b02020;
+    color: white;
+    font-size: 12px;
+    float: left;
+}
+
+.zhucer {
+    width: 380px;
+    height: 360px;
+    margin-top: 55px;
+    border: 1px solid #eee;
+    padding: 24px 38px;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+.headzhuce ul li {
+    height: 42px;
+    width: 50%;
+    text-align: center;
+
+}
+
+.bodyzhuce p {
+    width: 300px;
+    height: 24px;
+    background-color: #fffdee;
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 8px;
+    border: 1px solid #f5eecf;
+    line-height: 24px;
+}
+
+.bodyzhuce input[type="text"] {
+    width: 264px;
+    height: 34px;
+    border: 1px solid #cfcdcd;
+    line-height: 34px;
+    vertical-align: middle;
+    text-indent: 1em;
+}
+
+.bodyzhuce .zhanghao,
+.bodyzhuce .mima {
+    width: 34px;
+    height: 36px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bodyzhuce span.zhanghao {
+    background: #cfcdcd url("../upload/账号.png") 7px no-repeat;
+}
+
+.bodyzhuce span.mima {
+    background: #cfcdcd url("../upload/mima.png") 10px no-repeat;
+}
+
+.bodyzhuce span.zd,
+.bodyzhuce span.wj {
+    font-size: 12px;
+}
+
+.bodyzhuce span.zd {
+    color: #bbbaba;
+}
+
+.bodyzhuce input[type="checkbox"] {
+    margin-top: 20px;
+}
+
+.buttondl {
+    display: block;
+    height: 38px;
+    background-color: #c81623;
+    color: white;
+    line-height: 38px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.footzhuce {
+    height: 33px;
+    line-height: 33px;
+}
+
+.footzhuce span {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 20px;
+    vertical-align: middle;
+    background: url("../upload/zhucesp.png") -19px 45px;
+}
+
+.footzhuce span:nth-child(2) {
+    background: url("../upload/zhucesp.png") -72px 45px;
+}
+
+.footzhuce span:nth-child(3) {
+    background: url("../upload/zhucesp.png") -125px 45px;
+}
+
+.footzhuce span:nth-child(4) {
+    background: url("../upload/zhucesp.png") -176px 45px;
+}
+
+.footzhuce a {
+    font-size: 14px;
+    color: #1474af;
+    display: inline-block;
+    margin-bottom: 2px;
+}

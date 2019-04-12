@@ -1,0 +1,548 @@
+.main {
+    height: auto;
+}
+
+.main .main-nav {
+    top: -72px;
+}
+
+.header {
+    margin-bottom: 26px;
+}
+
+.breadnav {
+    margin-bottom: 40px;
+}
+
+.breadnav ul li {
+    float: left;
+}
+
+.breadnav li a {
+    font-size: 12px;
+}
+
+.breadnav li span {
+    padding: 0 20px;
+    font-size: arial;
+}
+
+.product-i {
+    margin-bottom: 24px;
+}
+
+.product-il {
+    width: 400px;
+    height: 568px;
+    text-align: center;
+}
+
+.pro-il-img {
+    height: 400px;
+    border: 1px solid #eee;
+    overflow: hidden;
+}
+
+.pro-il-img ul li img {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.propic {
+    height: 158px;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+
+.propich {
+    height: 58px;
+    line-height: 58px;
+    padding: 0 55px;
+}
+
+.propich ul li {
+    float: left;
+    width: 57px;
+    height: 58px;
+    margin-right: 1px;
+
+}
+
+.propich ul li:hover {
+    outline: 1px solid red;
+}
+
+.propich li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: url("../upload/手机照片sprite.jpg") no-repeat left;
+}
+
+.propich li:nth-child(3) a {
+    background: url("../upload/手机照片sprite.jpg") -58px 0 no-repeat;
+}
+
+.propich li:nth-child(4) a {
+    background: url("../upload/手机照片sprite.jpg") -116px 0 no-repeat;
+}
+
+.propich li:nth-child(5) a {
+    background: url("../upload/手机照片sprite.jpg") -189px 0 no-repeat;
+}
+
+.propicarrowl {
+    width: 58px;
+    height: 58px;
+    right: -18px;
+    top: 0;
+    cursor: pointer;
+}
+
+.propicarrowr {
+    width: 58px;
+    height: 58px;
+    left: 0;
+    top: 0;
+    cursor: pointer;
+}
+
+.pro-it {
+    margin-top: 24px;
+    font-size: 12px;
+}
+
+.pro-it .iconfont {
+    margin-right: 6px;
+}
+
+.product-ir {
+    width: 718px;
+}
+
+.product-ir h3 {
+    color: #333;
+    height: 32px;
+}
+
+.product-ir p {
+    font-size: 12px;
+    color: #e12228;
+    height: 34px;
+    margin-bottom: 10px;
+    line-height: 28px;
+}
+
+.product-ir .price {
+    width: 718px;
+    height: 115px;
+    background-color: #fee9eb;
+    box-sizing: border-box;
+    padding: 14px 0px 0 15px;
+    margin-bottom: 16px;
+}
+
+.product-ir .price li {
+    font-size: 12px;
+    margin-bottom: 13px;
+}
+
+.product-ir .price li i {
+    margin-left: 12px;
+}
+
+.product-ir .price strong {
+    font-size: 24px;
+}
+
+.product-ir .price a {
+    display: inline-block;
+    width: 40px;
+    height: 22px;
+    background-color: #c81623;
+    color: white;
+    text-align: center;
+    line-height: 22px;
+    margin-left: 13px;
+}
+
+.select {
+    margin-bottom: 18px;
+}
+
+.select li {
+    height: 40px;
+}
+
+.select button {
+    margin-right: 8px;
+    padding: 10px;
+    border: 1px solid #ededed;
+    font-size: 12px;
+}
+
+.select span {
+    margin-right: 14px;
+    font-size: 12px;
+}
+
+.buyshu .buyshul {
+    width: 50px;
+    height: 46px;
+    border: 1px solid #eee;
+
+}
+
+.buyshu .buyshul input[type="text"] {
+    width: 32px;
+    height: 44px;
+    float: left;
+    left: 0;
+    top: 0;
+    text-align: center;
+    line-height: 44px;
+}
+
+.buyshu .buyshul button {
+    height: 23px;
+    width: 16px;
+    border-left: 1px solid #eee;
+    color: black;
+}
+
+.buyshu .buyshul .add {
+    top: 0;
+    right: 0;
+    border-bottom: 1px solid #eee;
+}
+
+.buyshu .buyshul .jian {
+    bottom: 0;
+    right: 0;
+}
+
+.buyshu a {
+    display: inline-block;
+    width: 142px;
+    height: 46px;
+    background-color: #c81623;
+    color: white;
+    text-align: center;
+    line-height: 46px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.ps ul li:first-child {
+    height: 32px;
+    padding-left: 9px;
+    font-size: 12px;
+}
+
+.ps ul li:nth-child(2) {
+    height: 30px;
+    padding-left: 9px;
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 28px;
+}
+
+.prozl {
+    width: 210px;
+    height: 2380px;
+    border: 1px solid #eee;
+    text-align: center;
+}
+
+.prozl .tuijant a {
+    width: 104px;
+    height: 33px;
+    text-align: center;
+    line-height: 33px;
+    font-size: 12px;
+    display: block;
+    float: left;
+}
+
+.prozl .tuijant a:last-child {
+    border-left: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    box-sizing: border-box;
+    background-color: #f1f1f1;
+}
+
+.prozl ul {
+    padding: 0 12px;
+    margin-bottom: 20px;
+}
+
+.prozl ul li {
+    float: left;
+    width: 92px;
+    height: 28px;
+    border-bottom: 1px solid #eee;
+    padding-left: 8px;
+    box-sizing: border-box;
+    line-height: 28px;
+}
+
+.prozl ul li a {
+    font-size: 12px;
+}
+
+.prozl p {
+    font-size: 14px;
+    border-bottom: 1px solid #eee;
+    margin: 0 12px;
+    padding-bottom: 16px;
+}
+
+.proztbcontent ol {
+    width: 960px;
+}
+
+.prozl ol,
+.proztbcontent ol {
+    padding: 0 12px 0 17px;
+}
+
+.prozl ol {
+    border: 1px solid #eee;
+}
+
+.prozl ol li,
+.proztbcontent ol li {
+    padding-bottom: 20px;
+}
+
+.prozl ol li {
+    border-bottom: 1px solid #eee;
+}
+
+.proztbcontent ol li {
+    margin-right: 27px;
+    width: 136px;
+}
+
+.proztbcontent ol li:last-child {
+    border-right: 1px solid #eee;
+}
+
+.prozl ol p,
+.proztbcontent ol p {
+    font-size: 12px;
+    padding-left: 6px;
+    border: none;
+}
+
+.prozl ol p {
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 179px;
+    height: 28px;
+}
+
+.prozl ol span,
+.proztbcontent ol span {
+    font-size: 14px;
+    font-weight: 700;
+    float: left;
+    padding-left: 10px;
+}
+
+.prozl ol a {
+    width: 90px;
+    height: 26px;
+    border: 1px solid #eee;
+    text-align: center;
+    line-height: 26px;
+    font-size: 14px;
+    display: block;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+}
+
+.proztbcontent ol a {
+    background-color: #c81623;
+    color: white;
+}
+
+.prozr {
+    width: 970px;
+    height: 304px;
+    border: 1px solid #eee;
+    margin-left: 11px;
+}
+
+.proztt {
+    height: 38px;
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #eee;
+}
+
+.proztt a {
+    display: block;
+    width: 90px;
+    height: 38px;
+    background-color: red;
+    line-height: 38px;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+
+.proztbl {
+    border-right: 1px solid #eee;
+    margin-bottom: 13px;
+}
+
+.proztbl .proztbnav {}
+
+.proztb .proztbnav li {
+    float: left;
+    height: 38px;
+    padding: 0 22px 0 18px;
+    line-height: 38px;
+    text-align: center;
+}
+
+.proztbnav li a {
+    font-size: 12px;
+}
+
+.proztbcontent {
+    width: 645px;
+}
+
+.proztbcontent img {
+    margin-bottom: 8px;
+    cursor: pointer;
+    margin-left: -10px;
+    margin-top: 1px;
+}
+
+.proztbcontent ol li {
+    float: left;
+}
+
+.proztbcontent ol p {
+    width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.proztbcontent li span {
+    display: inline-block;
+}
+
+.proztbcontent li input {
+    margin-left: 8px;
+    float: left;
+    display: block;
+    margin-top: 2px;
+}
+
+.arrowq {
+    width: 20px;
+    height: 48px;
+    background-color: #ddd;
+    position: absolute;
+    right: 190px;
+    top: 60%;
+    transform: translateY(-50%);
+    transition: all 0.5s;
+    cursor: pointer;
+    background: url("../upload/右箭头.jpg") no-repeat;
+}
+
+.proztbcontent li:first-child img {
+    outline: 1px solid red;
+}
+
+.proztbcontent li:hover img {
+    outline: 1px solid red;
+}
+
+.proztbcontent li:last-child img {
+    margin-left: -8px;
+}
+
+.proztbr {
+    padding: 15px 44px 0 0;
+    width: 102px;
+
+}
+
+.proztbr p {
+    font-size: 12px;
+    line-height: 30px;
+}
+
+.proztbr i {
+    font-size: 14px;
+}
+
+.proztbr span {
+    font-size: 24px;
+}
+
+.proztbr a {
+    display: block;
+    text-align: center;
+    width: 140px;
+    height: 46px;
+    color: white;
+    font-size: 18px;
+    line-height: 46px;
+    background-color: red;
+    margin: 45px -7px;
+}
+
+.prozbb {
+    width: 974px;
+}
+
+.prozbbt {
+    height: 40px;
+    background-color: #f1f1f1;
+    width: 974px;
+    line-height: 40px;
+    border: 1px solid #eee;
+}
+
+.prozbbt {
+    margin-bottom: 22px;
+}
+
+.prozbb ul li {
+    float: left;
+    height: 40px;
+    padding: 0 22px;
+}
+
+.prozbb ul li:first-child {
+    background-color: red;
+}
+
+.prozbb li:first-child a {
+    color: white;
+}
+
+.prozbbm {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.prozbbm p {
+    height: 26px;
+    font-size: 12px;
+    margin-left: 32px;
+}
+
+.prozbbf {
+    text-align: center;
+}
