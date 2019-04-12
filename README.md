@@ -1,4 +1,4 @@
 # statics-project
 practice-project
-include sicx pages
+include six pages
 
